@@ -17,6 +17,9 @@ composer require --prefer-dist lengnuan/yii2-jexcel "*"
 用法：
 -----
 
+![image](https://github.com/lengnuan-v/yii2-jexcel/blob/master/img/1.png)
+
+
 ```php
 <?= \lengnuan\jexcel\Jexcel::widget(['options' => [
         'minDimensions' => [10,10],
@@ -27,6 +30,7 @@ composer require --prefer-dist lengnuan/yii2-jexcel "*"
 
 或
 
+![image](https://github.com/lengnuan-v/yii2-jexcel/blob/master/img/2.png)
 ```php
 <?php $data = [
     ['US', 'Cheese', 'Yes', '2019-02-12'],
