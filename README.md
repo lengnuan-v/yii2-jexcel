@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist lengnuan/yii2-jexcel "^0.10.0"
+php composer.phar require --prefer-dist lengnuan/yii2-jexcel "*"
 ```
 
 or add
