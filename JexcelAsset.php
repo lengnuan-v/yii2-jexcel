@@ -14,7 +14,7 @@ use yii\web\AssetBundle;
 class JexcelAsset extends AssetBundle
 {
 
-    public $sourcePath = '@bower';
+    public $sourcePath = __DIR__;
 
     public $css = [
         'jexcel/dist/jexcel.css',

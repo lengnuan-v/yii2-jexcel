@@ -12,8 +12,6 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "bower-asset/jexcel": "dev-master",
-        "bower-asset/jsuites": "^3.6.1"
     },
     "autoload": {
         "psr-4": {
